@@ -1,0 +1,32 @@
+{
+  "name": "node-crud-app",
+  "version": "1.0.0",
+  "description": "A simple CRUD app using nodejs, expressjs, mongodb",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdrahiem/node-CRUD-app.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "crud"
+  ],
+  "author": "mdrahiem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdrahiem/node-CRUD-app/issues"
+  },
+  "homepage": "https://github.com/mdrahiem/node-CRUD-app#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15"
+  }
+}

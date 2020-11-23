@@ -1,0 +1,1 @@
+its a simple CRUD app using nodejs, expressjs, mongodb.
